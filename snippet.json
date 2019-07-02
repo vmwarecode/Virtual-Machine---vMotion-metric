@@ -1,0 +1,1 @@
+{This Resource: sys|osUptime_latest}>300&&{This Resource: sys|uptime_latest}<=300
